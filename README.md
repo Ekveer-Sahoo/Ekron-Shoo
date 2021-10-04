@@ -5,7 +5,7 @@
   <tr>
      <td align="center" width="110" height="110">
       <a href="#macropower-tech" >
-        <img src="./js.png" width="60" height="60" alt="React.js" />
+        <img src="./js.png" width="65" height="65" alt="React.js" />
       </a>
     </td>
     <td align="center"  width="110" height="110">

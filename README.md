@@ -110,7 +110,7 @@
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src=".keras.png" width="60" height="60" alt="Python" />
+        <img src="./keras.png" width="60" height="60" alt="Python" />
       </a>
     </td>
     </tr>

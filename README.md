@@ -4,6 +4,7 @@
   </head>
   <body>
 <img height="550px" width="1000px" src="./ga.gif"/>
+    <style>
  table {
     margin-bottom: 2em;
     border-spacing: 0pt;

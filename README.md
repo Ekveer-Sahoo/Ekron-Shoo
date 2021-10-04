@@ -1,4 +1,4 @@
-### Hello my friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello my friend from the Internet! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img height="550px" width="1000px" src="./ga.gif"/>
 

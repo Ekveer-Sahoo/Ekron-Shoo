@@ -5,37 +5,37 @@
   <tr>
      <td align="center" width="110" height="110">
       <a href="#macropower-tech" >
-        <img src="./javascript-original.svg" width="48" height="48" alt="React.js" />
+        <img src="./js.png" width="48" height="48" alt="React.js" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech" >
-        <img src="./python-original.svg" width="48" height="48" alt="React Native" />
+        <img src="./html.png" width="48" height="48" alt="React Native" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./sass-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./css.png" width="48" height="48" alt="JavaScript" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./py.png" width="48" height="48" alt="TypeScript" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="Sass" />
+        <img src="./c#.png" width="48" height="48" alt="Sass" />
       </a>
     </td>
      <td align="center" width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./git.svg" width="48" height="48" alt="Git" />
+        <img src="./cpp.png" width="48" height="48" alt="Git" />
       </a>
     </td>
        <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
+        <img src="./java.png" width="48" height="48" alt="Next.js" />
       </a>
     </td>
     </br>

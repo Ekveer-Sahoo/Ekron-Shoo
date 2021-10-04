@@ -45,7 +45,7 @@
         <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
       </a>
     </td>
-    <td align="center"  width="140" height="112.43">
+    <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
         <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
       </a>

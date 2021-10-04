@@ -1,8 +1,12 @@
+<html>
+  <head>
 <style>
   table{
   border-radius: 30px
   }
   </style>
+  </head>
+  <body>
 <img height="550px" width="1000px" src="./ga.gif"/>
 
 <table align= "center">
@@ -120,10 +124,8 @@
     </tr>
 </table>
 </br>
-
-
-  
-
+</body>
+</html>
 
 
 

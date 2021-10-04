@@ -95,22 +95,22 @@
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="60" height="60" alt="Python" />
+        <img src="./altium.png" width="60" height="60" alt="Python" />
       </a>
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="60" height="60" alt="Python" />
+        <img src="./tf.png" width="60" height="60" alt="Python" />
       </a>
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="60" height="60" alt="Python" />
+        <img src="./ai.png" width="60" height="60" alt="Python" />
       </a>
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="60" height="60" alt="Python" />
+        <img src=".keras.png" width="60" height="60" alt="Python" />
       </a>
     </td>
     </tr>

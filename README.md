@@ -39,9 +39,9 @@
       </a>
     </td>
     </br>
+     </tr>
+  </tr>
     <tr>
-    
- 
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
         <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
@@ -57,8 +57,7 @@
         <img src="./python-original.svg" width="48" height="48" alt="Python" />
       </a>
     </td>
-   </tr>
-  </tr>
+  
   
 </table>
 </br>

@@ -25,7 +25,7 @@
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./c#.png" width="60" height="60" alt="Sass" />
+        <img src="./c.png" width="60" height="60" alt="Sass" />
       </a>
     </td>
      <td align="center" width="110" height="110">

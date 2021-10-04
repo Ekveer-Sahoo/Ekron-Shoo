@@ -49,17 +49,17 @@
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./styled-components.svg" width="60" height="60" alt="FStyled-components" />
+        <img src="./ai.png" width="60" height="60" alt="FStyled-components" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="60" height="60" alt="Python" />
+        <img src="./pr.png" width="60" height="60" alt="Python" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="60" height="60" alt="Python" />
+        <img src="./ps.png" width="60" height="60" alt="Python" />
       </a>
     </td>
   <td align="center"  width="110" height="110">

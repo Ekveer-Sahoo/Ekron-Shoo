@@ -28,18 +28,20 @@
         <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
     </td>
-    <tr>
      <td align="center" width="110" height="110">
       <a href="#macropower-tech">
         <img src="./git.svg" width="48" height="48" alt="Git" />
       </a>
     </td>
-    <td align="center"  width="110" height="110">
+       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
         <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
       </a>
     </td>
     </br>
+    <tr>
+    
+ 
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
         <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />

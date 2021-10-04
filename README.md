@@ -5,112 +5,112 @@
   <tr>
      <td align="center" width="110" height="110">
       <a href="#macropower-tech" >
-        <img src="./js.png" width="65" height="65" alt="React.js" />
+        <img src="./js.png" width="60" height="60" alt="React.js" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech" >
-        <img src="./html.png" width="48" height="48" alt="React Native" />
+        <img src="./html.png" width="60" height="60" alt="React Native" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./css.png" width="48" height="48" alt="JavaScript" />
+        <img src="./css.png" width="60" height="60" alt="JavaScript" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./py.png" width="48" height="48" alt="TypeScript" />
+        <img src="./py.png" width="60" height="60" alt="TypeScript" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./c#.png" width="48" height="48" alt="Sass" />
+        <img src="./c#.png" width="60" height="60" alt="Sass" />
       </a>
     </td>
      <td align="center" width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./cpp.png" width="48" height="48" alt="Git" />
+        <img src="./cpp.png" width="60" height="60" alt="Git" />
       </a>
     </td>
        <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./java.png" width="48" height="48" alt="Next.js" />
+        <img src="./java.png" width="60" height="60" alt="Next.js" />
       </a>
     </td>
     </br>
      </tr>
   </tr>
     <tr>
-    <td align="center"  width="110" height="110">
+    <td align="center"  width="60" height="60">
       <a href="#macropower-tech">
         <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
+        <img src="./styled-components.svg" width="60" height="60" alt="FStyled-components" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
   <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
   <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
   <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
   <tr>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
       <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="60" height="60" alt="Python" />
       </a>
     </td>
     </tr>

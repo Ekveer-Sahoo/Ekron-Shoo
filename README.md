@@ -1,4 +1,8 @@
-
+<style>
+  table{
+  border-radius: 30px
+  }
+  </style>
 <img height="550px" width="1000px" src="./ga.gif"/>
 
 <table align= "center">

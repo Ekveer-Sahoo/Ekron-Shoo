@@ -5,17 +5,17 @@
   <tr>
      <td align="center" width="110" height="110">
       <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React.js" />
+        <img src="./javascript-original.svg" width="48" height="48" alt="React.js" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
+        <img src="./python-original.svg" width="48" height="48" alt="React Native" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./sass-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
     </td>
     <td align="center"  width="110" height="110">
@@ -25,7 +25,7 @@
     </td>
     <td align="center"  width="110" height="110">
       <a href="#macropower-tech">
-        <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="" width="48" height="48" alt="Sass" />
       </a>
     </td>
      <td align="center" width="110" height="110">

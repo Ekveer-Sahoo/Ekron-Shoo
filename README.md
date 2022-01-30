@@ -3,7 +3,6 @@
 
   </head>
   <body>
-<img height="550px" width="1000px" src="./ga.gif"/>
   
 <table align= "center">
   <tr>
